@@ -4,20 +4,26 @@
 
 I am a Tech Founder currently pursuing a B.Sc. in Software Engineering at **IT Park University (ITPU)**. My mission is to replace fragmented manual workflows with high-impact, data-driven automation.
 
-### ⚡ Technical Impact:
-* **Efficiency Engineering:** Developed a Python-based automation framework for **Caravan Broker**, reducing complex documentation cycles from 4 hours to just 10 minutes (**95% efficiency gain**).
-* **Systemic Scalability:** Leveraging years of experience in international trade and logistics to architect software that solves real-world sector frictions.
-* **Community Building:** Co-founded the **Rendez-Vous IUC**, establishing a premier inter-university analytical ecosystem in Central Asia.
-
-### 🛠️ Tech Stack:
-* **Languages:** Python (Core focus), SQL.
-* **Concepts:** Software Architecture, Data Structures, OOP, Business Process Automation.
-* **Education:** IT Park University (ITPU), Software Engineering.
-
-### 📫 Connect with me:
-* **LinkedIn:** [linkedin.com/in/islam-ruzmetov](https://linkedin.com/in/islam-ruzmetov)
-* **Telegram:** [@islam_ruzmetov](https://t.me/islam_ruzmetov)
-* **Email:** ruzmetov.dev@gmail.com
+### 🛠️ Tech Stack & Tools
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
+
+### 🚀 Key Achievements
+* **Customs Automation:** Developed a Python-based framework that reduced documentation cycles from **4 hours to 10 minutes** (95% efficiency gain).
+* **Sirelis Trade:** Successfully led export-import operations with the European market since 2021.
+* **Systems Design:** Architecting digital tools for logistics and automated business processing.
+
+---
+
+### 📊 GitHub Stats & Activity
+![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamruzmetov-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islamruzmetov-dev&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-ruzmetov)
 *"Engineering is about architecting precision and solving high-stakes challenges."*
